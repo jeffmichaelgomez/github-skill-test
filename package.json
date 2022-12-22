@@ -1,0 +1,25 @@
+{
+  "name": "github-skill-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffmichaelgomez/github-skill-test/issues"
+  },
+  "homepage": "https://github.com/jeffmichaelgomez/github-skill-test#readme"
+}
